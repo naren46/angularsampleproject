@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/orizens/echoes-player.svg?branch=master)](https://travis-ci.org/orizens/echoes-player) [![Netlify Status](https://api.netlify.com/api/v1/badges/616838a7-249c-4ec3-b070-9ee35146a7e2/deploy-status)](https://app.netlify.com/sites/echoesplayer/deploys) [![Code Climate](https://codeclimate.com/github/orizens/echoes-player/badges/gpa.svg)](https://codeclimate.com/github/orizens/echoes-player)
-updated for fun
+
 ## [Join Echoes Slack Channel](https://join.slack.com/t/echoesplayer/shared_invite/enQtMzcwMDI4OTI3MjAzLTljZDI3YTA2OGY2ZWY1NTg2M2RmN2UyZGIxOTI4Y2IwMGI4Mzg5MWFlZTZhYTQzZWI5NDVjMGE3ZTQ5OTJjNDA)
 
 # Echoes Player - Angular Version (2nd Generation)
